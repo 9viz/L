@@ -1,4 +1,4 @@
 # L
-![L](https://img.shields.io/badge/L-L-L.svg)
+![L](https://img.shields.io/badge/L-L-ffffff.svg)
 
 LLLL
