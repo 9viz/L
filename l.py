@@ -1,9 +1,9 @@
-"""l"""
-from itertools import repeat as ll
-lllll = any
-lll = map
-llll = print
-l = 'l'
-lllll(lll(llll, ll(l)))
+"""L"""
+from itertools import repeat as LL
+LLLLL = any
+LLL = map
+LLLL = print
+L = 'L'
+lllll(lll(LLLL, LL(L)))
 
-# l
+# L
