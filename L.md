@@ -1,1 +1,1 @@
-![eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://img.shields.io/badge/eeeeee-eeeeee-l.svg)
+![L](https://img.shields.io/badge/eeeeee-eeeeee-l.svg)
