@@ -1,6 +1,6 @@
-![L](https://img.shields.io/badge/Code-Of-Conduct-eeeeee.svg)
 
 # Contributor Covenant Code of Conduct
+![L](https://img.shields.io/badge/L-Conduct-eeeeee.svg)
 
 ## Our Pledge
 
